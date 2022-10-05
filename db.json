@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "name": "Hammad",
+      "age": "23",
+      "gender": "male",
+      "id": 12
+    },
+    {
+      "name": "Hammad3",
+      "age": "23",
+      "gender": "male",
+      "id": 12
+    },
+    {
+      "name": "Hammad4",
+      "age": "23",
+      "gender": "male",
+      "id": 12
+    }
+    ,{
+      "name": "Hammad5",
+      "age": "23",
+      "gender": "male",
+      "id": 12
+    }
+  ]
+}
